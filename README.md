@@ -1,4 +1,6 @@
 ### Hi there 👋
+-I am Sebnem
+-I am freshman at Bilkent University 
 
 <!--
 **sebnemkls/sebnemkls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
